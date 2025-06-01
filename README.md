@@ -1,6 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
-### Reg No:212223230175
-### Name:T.Roshini
+### Reg No:212223240142
+### Name:ROSHINI.S
 ### Date:27/03/2025
 
 
